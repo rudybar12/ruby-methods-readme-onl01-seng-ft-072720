@@ -11,3 +11,9 @@ puts phrase
 puts phrase
 puts phrase
 puts phrase
+
+def greeting
+end
+def greeting
+  "hello world"
+end
